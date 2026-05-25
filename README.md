@@ -125,7 +125,12 @@ This project was built to improve understanding of:
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
-**Limchheanggg**  
-Data Science Student at the Institute of Technology of Cambodia (ITC)
+This project was developed by me and my university team as part of our Machine Learning coursework project.
+
+**Team:**  
+- Limchheanggg  
+- Machine Learning Project Team  
+
+🏫 Institute of Technology of Cambodia (ITC)
